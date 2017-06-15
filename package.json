@@ -1,0 +1,19 @@
+{
+  "name": "everything",
+  "version": "1.0.0",
+  "description": "Record everything in your daily life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanbnuep/Everything.git"
+  },
+  "author": "ian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanbnuep/Everything/issues"
+  },
+  "homepage": "https://github.com/yanbnuep/Everything#readme"
+}
